@@ -1,0 +1,6 @@
+flask
+flask-smorest
+urllib3==1.26.15
+python-dotenv
+openai
+firebase_admin

@@ -1,0 +1,66 @@
+[
+	{
+		"Afternoon": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Dinner": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Evening": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Lunch": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Morning": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		}
+	},
+	{
+		"Afternoon": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Dinner": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Evening": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Lunch": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		},
+		"Morning": {
+			"Activity": "<ACTIVITY>",
+			"Activity type": "<ACTIVITY_TYPE>",
+			"Address": "<ADDRESS>",
+			"Recommended Visit Duration": "<X> hours"
+		}
+	}
+]
