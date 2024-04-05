@@ -3,7 +3,6 @@ import React, { useState } from 'react'
 import CustomTextInput from '../../ui/main/CustomTextInput'
 import Button from '../main/Button'
 import OutlinedButton from '../main/OutlinedButton'
-import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 import { Colors } from '../../constants/colors'
 import EditButton from './EditButton'
 
